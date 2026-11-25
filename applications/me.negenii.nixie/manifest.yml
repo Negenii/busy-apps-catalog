@@ -1,0 +1,23 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/Negenii/busybar-nixie-js.git
+    commit_sha: 81302f80e2fd387d1c7d87699c53ca6c169f1200
+category: clocks
+short_description: A nixie-tube clock in orange or white, with three levels of flickper.
+description: |-
+  A nixie-tube clock for the BUSY Bar, ported from my native Nixie clock app.
+
+  ## Controls
+
+  On the clock, turn the wheel to change how much the tubes flickper: off, soft or strong. Press OK to switch between orange and white.
+
+  ## Settings
+
+  Setup has the rest: flickper, colour, seconds on or off and the colon (steady, blinking or pulsing).
+changelog: First release.
+screenshots:
+  - screenshots/1.png
+  - screenshots/2.png
+  - screenshots/3.png
+  - screenshots/4.png
